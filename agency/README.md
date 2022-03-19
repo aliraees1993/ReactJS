@@ -1,1 +1,6 @@
-# Agency Website using react, styled components and gsap, built using ReactJS
+# Agency Website
+
+## This website is built using
+- gsap
+- styled-components
+
